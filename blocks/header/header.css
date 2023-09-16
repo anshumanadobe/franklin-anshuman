@@ -21,6 +21,15 @@ header nav {
   font-family: var(--body-font-family);
 }
 
+li:hover a {
+  margin-left: -10px;
+  padding-left: 10px;
+  background-color: #13118C;
+  color: white;
+  font-weight: bold;
+  width: 100%;
+}
+
 header nav[aria-expanded="true"] {
   grid-template:
     'hamburger brand' var(--nav-height)
