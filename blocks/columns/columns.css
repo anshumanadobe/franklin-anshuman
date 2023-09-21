@@ -19,6 +19,11 @@
         background-color: #ebebeb;
     }
 
+    .columns > div > div.columns-img-col {
+                flex: 1;
+                background-color: #ffffff;
+            }
+
     .columns > div > div:first-of-type {
         margin-left: unset;
     }
