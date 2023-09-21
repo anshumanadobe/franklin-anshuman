@@ -15,7 +15,7 @@
 
     .columns > div > div {
         flex: 1;
-        margin-left: 32px;
+        padding-left: 20px;
         background-color: #ebebeb;
     }
 
