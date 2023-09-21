@@ -153,10 +153,10 @@ a.button:any-link, button {
   color: #000000;
   /*background-color: var(--link-color); */
   margin: 16px 0;
-  white-space: nowrap;
+  /*white-space: nowrap;*/
   overflow: hidden;
   text-overflow: ellipsis;
-  border-radius: 30px;
+  /*border-radius: 30px;*/
 }
 
 a.button:hover, a.button:focus, button:hover, button:focus  {
