@@ -212,8 +212,8 @@ main blockquote p::after {
 
 main img {
   max-width: 100%;
-  width: 100%;
-  height: auto;
+  width: auto;
+  height: 100%;
 }
 
 .icon {
